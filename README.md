@@ -18,3 +18,5 @@ mod.json
     "onClose": "sounds/close.mp3"
   }
 }
+ fundo e qualquer outra imagem relacionada ao BLACKPINK.
+O arquivo de áudio boombayah.mp3 ou qualquer outro efeito sonoro.
